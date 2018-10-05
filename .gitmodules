@@ -1,0 +1,15 @@
+[submodule "globomap-ui"]
+	path = globomap-ui
+	url = git@github.com:globocom/globomap-ui.git
+[submodule "globomap-api"]
+	path = globomap-api
+	url = git@github.com:globocom/globomap-api.git
+[submodule "globomap-loader"]
+	path = globomap-loader
+	url = git@github.com:globocom/globomap-loader.git
+[submodule "globomap-loader-api"]
+	path = globomap-loader-api
+	url = git@github.com:globocom/globomap-loader-api.git
+[submodule "examples/python/globomap-hands-on"]
+	path = examples/python/globomap-hands-on
+	url = git@github.com:edersonbrilhante/globomap-hands-on.git
